@@ -1,0 +1,54 @@
+.mdl-layout__header{
+	background-color: #fafafa;
+	color: #000;
+}
+
+.mdl-layout__header .material-icons{
+	color: #000;
+}
+
+.mdl-layout__header-row .mdl-navigation__link{
+	color:#444;
+	font-size: 20px;
+}
+
+.mdl-layout__header-row .mdl-navigation__link:hover{
+	text-decoration: none;
+	color:#000;
+}
+
+
+.mdl-layout__header-row .mdl-navigation__link img{
+	width: 20px;
+	margin-right: 8px;
+}
+
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link img{
+	width: 20px;
+	margin-right: 8px;
+}
+
+.mdl-mini-footer{
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+}
+
+
+.contenedor1{
+	margin: 20px 0;
+}
+
+.contenedor2{
+	margin: 20px 0 50px;
+}
+
+.articulo1{
+	
+	background-color:#FFA600;
+	height:350px;
+	padding:2em;
+	font-size:22px;
+}
